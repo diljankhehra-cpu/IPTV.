@@ -1,13 +1,20 @@
 import requests
 
 def update_list():
-    # ਇਹ ਸਾਰੇ ਲਿੰਕ ਸਿੱਧੇ 'raw' ਫਾਈਲਾਂ ਦੇ ਹਨ
     base_url = "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/"
     files = ["in", "in_distro", "in_doordarshan", "in_pishow", "in_samsung", "in_tango"]
     
     with open("in.m3u", "w", encoding="utf-8") as outfile:
-        outfile.write("#EXTM3U\n")
+        # 1. ਪਹਿਲਾਂ ਤੁਹਾਡੀ ਮੈਨੁਅਲ ਲਿਸਟ ਲਿਖੋ
+        outfile.write('#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"\n')
         
+        try:
+            with open("channels.txt", "r", encoding="utf-8") as manual_file:
+                outfile.write(manual_file.read() + "\n")
+        except FileNotFoundError:
+            print("channels.txt ਨਹੀਂ ਮਿਲੀ, ਸਿਰਫ ਆਟੋ-ਲਿਸਟ ਅਪਡੇਟ ਹੋ ਰਹੀ ਹੈ।")
+
+        # 2. ਹੁਣ ਆਟੋਮੈਟਿਕ ਲਿਸਟਾਂ ਲਿਖੋ
         for file_name in files:
             url = f"{base_url}{file_name}.m3u"
             response = requests.get(url)
