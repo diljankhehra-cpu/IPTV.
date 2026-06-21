@@ -1,29 +1,20 @@
 import requests
-import json
 
 def update_list():
-    # ਅਸਲੀ streams API URL
-    url = "https://iptv-org.github.io/api/streams.json"
-    try:
-        response = requests.get(url)
-        data = response.json()
+    # ਉਹ ਸਾਰੀਆਂ ਫਾਈਲਾਂ ਜੋ ਤੈਨੂੰ ਚਾਹੀਦੀਆਂ ਹਨ
+    files = ["in", "in_distro", "in_doordarshan", "in_pishow", "in_samsung", "in_tango"]
+    
+    with open("in.m3u", "w", encoding="utf-8") as outfile:
+        outfile.write("#EXTM3U\n")
         
-        # ਫਾਈਲ ਵਿੱਚ ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ
-        with open("in.m3u", "w", encoding="utf-8") as f:
-            f.write("#EXTM3U\n")
-            
-            count = 0
-            for item in data:
-                # ਇੱਥੇ ਦੇਖੋ ਕਿ ਕੀ 'country' ਫੀਲਡ 'in' ਹੈ
-                if item.get("country") == "in":
-                    f.write(f"#EXTINF:-1,{item.get('title', 'Channel')}\n")
-                    f.write(f"{item.get('url')}\n")
-                    count += 1
-            
-            print(f"Total channels found: {count}")
-            
-    except Exception as e:
-        print(f"Error: {e}")
+        for file_name in files:
+            url = f"https://iptv-org.github.io/iptv/languages/{file_name}.m3u"
+            response = requests.get(url)
+            if response.status_code == 200:
+                # ਫਾਈਲ ਵਿੱਚੋਂ ਪਹਿਲੀ ਲਾਈਨ (#EXTM3U) ਹਟਾ ਕੇ ਬਾਕੀ ਡੇਟਾ ਜੋੜੋ
+                lines = response.text.splitlines()
+                for line in lines[1:]: # ਪਹਿਲੀ ਲਾਈਨ ਛੱਡ ਕੇ
+                    if line.strip():
+                        outfile.write(line + "\n")
 
-if __name__ == "__main__":
-    update_list()
+update_list()
