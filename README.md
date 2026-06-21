@@ -55,7 +55,10 @@ You can start watching all channels in just 3 simple steps:
 ### ⚙️ Technical Architecture
 * **Python Automation:** A robust script that parses and validates stream links every 60 minutes.
 * **GitHub Actions:** Fully decentralized, automated CI/CD pipeline ensuring 99.9% uptime.
-* **Zero Latency:** Stream data is served directly via GitHub's global edge network for instant buffering.
+---
+### ⚠️ Performance Note
+*Buffering issues depend on the source stream quality. If a channel buffers, try switching the stream quality in your player settings or use a stable network connection.*
+---
 
 ---
 
