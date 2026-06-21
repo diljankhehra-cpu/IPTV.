@@ -33,23 +33,23 @@ An advanced automated system that aggregates live Indian television channels in 
 | **IPTV Smarters** | All Devices |
 
 ---
----
 
 ### 📋 How to use? (Setup Guide)
-ਤੁਸੀਂ ਸਿਰਫ 3 ਸਟੈਪਸ ਵਿੱਚ ਸਾਰੇ ਚੈਨਲ ਦੇਖ ਸਕਦੇ ਹੋ:
+You can start watching all channels in just 3 simple steps:
 
 1. **Copy the Link:** 
    `https://diljankhehra-cpu.github.io/IPTV./in.m3u`
    
 2. **Choose Your Player:** 
-   ਆਪਣੀ ਡਿਵਾਈਸ 'ਤੇ TiviMate, OTT Navigator, ਜਾਂ IPTV Smarters ਡਾਊਨਲੋਡ ਕਰੋ।
+   Download any IPTV player like TiviMate, OTT Navigator, or IPTV Smarters on your device.
 
 3. **Add Playlist:** 
-   Player ਖੋਲ੍ਹੋ -> **"Add M3U Playlist"** ਚੁਣੋ -> ਉੱਪਰ ਦਿੱਤਾ ਲਿੰਕ ਪੇਸਟ ਕਰੋ -> **"Load"** ਬਟਨ ਦਬਾਓ।
+   Open your player -> Select **"Add M3U Playlist"** -> Paste the link provided above -> Press **"Load"**.
 
-*ਹੁਣ ਤੁਹਾਡੇ ਸਾਰੇ ਚੈਨਲ ਲਾਈਵ ਚੱਲਣ ਲਈ ਤਿਆਰ ਹਨ!*
+*Your channels are now ready to stream!*
 
 ---
+
 
 
 ### ⚙️ Technical Architecture
