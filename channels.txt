@@ -1,0 +1,50 @@
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="Nick" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Nick_Thumbnail_5f31df62-5ae0-44ee-89c3-1e5f0b34d2c4.png",Nick
+https://mini.allinonereborn.fun/tata.php?id=11662
+#EXTINF:-1 tvg-id="SonySab.in" tvg-name="Sony SAB" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_SAB_Thumbnail_89926d83-4a6f-422f-8703-9d040a45e2c5.png",Sony SAB
+https://mini.allinonereborn.fun/tata.php?id=11672
+#EXTINF:-1 tvg-id="DisneyChannel.in" tvg-name="Disney Channel Hindi" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Disney_Channel_Thumbnail_67644265-f860-4786-8a0a-092591e1d03e.png",Disney Channel Hindi
+https://mini.allinonereborn.fun/tata.php?id=11639
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Star_Sports_1_Thumbnail_a537f7ed-7e44-4860-9d90-33633630739c.png",Star Sports 1
+https://mini.allinonereborn.fun/tata.php?id=12149
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-name="Sony Pal" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_Pal_Thumbnail_75538e55-3a03-490e-89a3-5c24e5482326.png",Sony Pal
+https://mini.allinonereborn.fun/tata.php?id=666
+#EXTINF:-1 tvg-id="SonySports3.in" tvg-name="Sony Sports 3" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_Sports_Ten_3_Thumbnail_06429582-841f-442e-84b2-01968875508c.png",Sony Sports 3
+https://mini.allinonereborn.fun/tata.php?id=12147
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="Zee TV HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Zee_TV_HD_Thumbnail_e6556e43-e666-419b-a010-02c38217dfa7.png",Zee TV HD
+https://mini.allinonereborn.fun/tata.php?id=11694
+#EXTINF:-1 tvg-id="SuperSportsCricket.in" tvg-name="Super Sports Cricket" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/SuperSport_Cricket.png",Super Sports Cricket
+https://mini.allinonereborn.fun/tata.php?id=12167
+#EXTINF:-1 tvg-id="SonyTV.in" tvg-name="Sony Entertainment Television" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_Entertainment_Television_Thumbnail_0506e788-519b-4394-b258-0056110f6074.png",Sony Entertainment Television
+https://mini.allinonereborn.fun/tata.php?id=11673
+#EXTINF:-1 tvg-id="PtcPunjabi.in" tvg-name="PTC Punjabi" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/PTC_Punjabi_Thumbnail_9b9365e8-140b-419f-9689-53b92f763836.png",PTC Punjabi
+https://mini.allinonereborn.fun/tata.php?id=12193
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Discovery Kids" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Discovery_Kids_Thumbnail_15e5893d-d309-4089-9a2c-f3e09841f391.png",Discovery Kids
+https://mini.allinonereborn.fun/tata.php?id=11919
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Pogo" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Pogo_Thumbnail_95932599-2708-410a-8d1e-8733b8a34b6b.png",Pogo
+https://mini.allinonereborn.fun/tata.php?id=11800
+#EXTINF:-1 tvg-id="SonySab.in" tvg-name="Sony SAB (Alt)" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_SAB_Thumbnail_89926d83-4a6f-422f-8703-9d040a45e2c5.png",Sony SAB (Alt)
+https://mini.allinonereborn.fun/tata.php?id=11778
+#EXTINF:-1 tvg-id="SonyMaxHD.in" tvg-name="Sony Max HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_Max_HD_Thumbnail_e51240c0-f80c-4437-9759-9945df89c4ec.png",Sony Max HD
+https://mini.allinonereborn.fun/tata.php?id=11670
+#EXTINF:-1 tvg-id="ColorsCineplexHD.in" tvg-name="Colors Cineplex HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_Cineplex_HD_Thumbnail_06079946-b333-4f96-b076-24151740925c.png",Colors Cineplex HD
+https://mini.allinonereborn.fun/tata.php?id=11711
+#EXTINF:-1 tvg-id="ColorsHD.in" tvg-name="Colors HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_HD_Thumbnail_f711f978-e87f-4494-b220-410a76ec8c77.png",Colors HD
+https://mini.allinonereborn.fun/tata.php?id=11635
+#EXTINF:-1 tvg-id="Ptv.in" tvg-name="PTV" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/PTV_Home.png",PTV
+https://mini.allinonereborn.fun/tata.php?id=12034
+#EXTINF:-1 tvg-id="TenSportsHD.in" tvg-name="Ten Sports HD" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/Ten_Sports_HD.png",Ten Sports HD
+https://mini.allinonereborn.fun/tata.php?id=12054
+#EXTINF:-1 tvg-id="ColorsRishtey.in" tvg-name="Colors Rishtey" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_Rishtey_Thumbnail_86b72a0f-1555-4089-9a2c-f3e09841f391.png",Colors Rishtey
+https://mini.allinonereborn.fun/tata.php?id=11774
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-name="Sony Wah" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_Wah_Thumbnail_67644265-f860-4786-8a0a-092591e1d03e.png",Sony Wah
+https://mini.allinonereborn.fun/tata.php?id=11731
+#EXTINF:-1 tvg-id="AndTVHD.in" tvg-name="&TV HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/And_TV_HD_Thumbnail_5b432a57-b088-444f-8a58-69317540201d.png",&TV HD
+https://mini.allinonereborn.fun/tata.php?id=11626
+#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="Star Plus HD" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Star_Plus_HD_Thumbnail_93568c09-0d19-4828-91c6-2c5e5330388d.png",Star Plus HD
+https://mini.allinonereborn.fun/tata.php?id=12204
+#EXTINF:-1 tvg-id="WowKids.in" tvg-name="Wow Kids" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/Wow_Kidz.png",Wow Kids
+https://mini.allinonereborn.fun/tata.php?id=11758
+#EXTINF:-1 tvg-id="SonySports5.in" tvg-name="Sony Sports 5" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sony_Sports_Ten_5_Thumbnail_2d62886c-48c0-4384-82a8-04332463e264.png",Sony Sports 5
+https://mini.allinonereborn.fun/tata.php?id=12144
+#EXTINF:-1 tvg-id="Sonic.in" tvg-name="Sonic" tvg-logo="https://mediaready.videoready.tv/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Sonic_Thumbnail_d97b0a3f-0599-4458-8608-8f8510f2795f.png",Sonic
+https://mini.allinonereborn.fun/tata.php?id=11667
