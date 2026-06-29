@@ -38,7 +38,7 @@ An advanced automated system that aggregates live Indian television channels in 
 You can start watching all channels in just 3 simple steps:
 
 1. **Copy the Link:** 
-   `https://diljankhehra-cpu.github.io/IPTV./in.m3u`
+   `https://diljankhehra-cpu.github.io/IPTV/in.m3u`
    
 2. **Choose Your Player:** 
    Download any IPTV player like TiviMate, OTT Navigator, or IPTV Smarters on your device.
@@ -65,7 +65,7 @@ You can start watching all channels in just 3 simple steps:
 
 ### 💡 Contribution & Support
 Have an idea or a channel request? 
-**[Open an Issue](https://github.com/diljankhehra-cpu/IPTV./issues) | [Submit a Pull Request](https://github.com/diljankhehra-cpu/IPTV./pulls)**
+**[Open an Issue](https://github.com/diljankhehra-cpu/IPTV./issues) | [Submit a Pull Request](https://github.com/diljankhehra-cpu/IPTV/pulls)**
 
 ---
 
